@@ -46,6 +46,11 @@
 	
 ### 比特币交易市场
 
+* [OKCoin](http://www.okcoin.com/?invite=3360896)
+ 
+	中文。OKCoin平台采用SSL、GSLB、分布式服务器、离线存储等先进技术保证了平台的安全和稳定，充值即时到帐0手续费，方便快捷！
+	
+
 * [cny2btc](https://www.cny2btc.com/invite/841d7d1)
 
 	中文。从域名就可以看出了，CNY to BTC。汇率走势每分钟更新一次。
