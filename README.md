@@ -49,6 +49,8 @@
 * [OKCoin](http://www.okcoin.com/?invite=3360896)
  
 	中文。OKCoin平台采用SSL、GSLB、分布式服务器、离线存储等先进技术保证了平台的安全和稳定，充值即时到帐0手续费，方便快捷！
+
+	绑定邮箱手机即赠送0.001BTC。
 	
 
 * [cny2btc](https://www.cny2btc.com/invite/841d7d1)
