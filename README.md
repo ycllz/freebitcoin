@@ -40,6 +40,10 @@
 	
 	每隔一小时可以免费玩转盘，根据数字随机赠送比特币。
 	
+* [Free Bitcoin Lottery](http://www.freebitcoinlottery.com/?a=15hfB3YMe31TkLz9vS8ybY7NFGHRXr2HyP) ★★★★★
+	
+	猜数字，每次选择 6 个数字，根据猜中的个数，每次奖励 0.02 到 5000 μBTC。
+	
 * [DailyBitcoin](http://dwz.cn/dailybitcoins)
 
 	输入验证码拿币，每小时一次。
