@@ -3,15 +3,19 @@
 
 ### 免费获取比特币的站点
 
-* [kfxx](http://kfxx.info/gif.php?v=5ib9)
+* [kfxx](http://kfxx.info/gif.php?v=5ib9) ★★★★
 
 	这是一个福利网站。
 
 	目前网站处于推广期，为大家发送各种福利。
 
 	完成网站的任务可以获得奖励。根据官方提供的帮助文档，将来这些积分可以兑换比特币或者其它货币。
+	
+* [财富江湖](http://caifujianghu.com?f=fbc) ★★★★★
 
-* [欢乐95](http://www.dwz.cn/huanle95)
+	财富论坛，里面详细介绍了多种网赚方式。
+
+* [欢乐95](http://www.dwz.cn/huanle95) ★★★
 
 	最轻松的 BTC 获取方式，有多种获取 BTC 的方式：
 
@@ -19,7 +23,7 @@
 	* 淘宝购物返 BTC
 	* 抽奖：可以用自己的积分参与抽奖（风险太大，手气不好的话就别玩了）。
 
-* [CoinURL](http://www.dwz.cn/coinurl)
+* [CoinURL](http://www.dwz.cn/coinurl) ★★★
 
 	国外的网站，多语言版（简体中文不是很完善，个别页面还都是英文的）。获取方式：
 
@@ -27,7 +31,8 @@
 	* 如果你有自己的网站，可以制作类似 Google Ad 的广告，赚取 BTC。
 
 	如果想快速获取 BTC，推荐试试这个，比较老外出手比较大方。
-* [CoinAd](http://dwz.cn/coinad)
+	
+* [CoinAd](http://dwz.cn/coinad) ★★★
 	
 	国外网站，无中文。
 
@@ -73,7 +78,7 @@
 	
 ## 其它赚钱方式 
 
-* [米赚](http://www.mizhuan.me/r/5dce8b)
+* [米赚](http://www.mizhuan.me/r/5dce8b) ★★★★
 
 	一款让你在玩手机的同时还能赚到钱的手机应用，支持Android手机和苹果iPhone,iPad,iPod设备。通过米赚，你可以通过安装我们推荐的优秀应用、评论和分享应用、完成指定任务等方式赚取大米，还可以把大米变现成充值卡和Q币等。
 
@@ -83,7 +88,7 @@
 	
 	**奖品多多, 等你来兑** Q币、话费、集分宝、迅雷会员等等，还可以提现到支付宝、财付通
 
-* [金刚赚](http://www.jingangzhuan.com/download?t=61923)
+* [金刚赚](http://www.jingangzhuan.com/download?t=61923) ★★★★
 
 	金刚赚是一个手机应用商店，玩家通过下载金刚赚推荐的应用就可以获得安装收益，当然用户还可以获得试玩、多次试玩、反馈、邀请等收益真正实现“拿着金刚赚，揽着瓷器活”。
 
