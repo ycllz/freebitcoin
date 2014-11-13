@@ -19,7 +19,7 @@
 	
 	赚取积分，直接兑换人民币。
 
-* [欢乐95](http://www.dwz.cn/huanle95) ★★★
+* [欢乐95](http://www.huanle95.com/intro?r=3822) ★★★
 
 	最轻松的 BTC 获取方式，有多种获取 BTC 的方式：
 
